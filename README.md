@@ -107,9 +107,9 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 * [2023/04] ** ** * et al. arXiv.* [[paper]()]
 
 #### Learning Actions
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
 
-##### Updating Semantic Memory with Knowledge
+*Updating Semantic Memory with Knowledge*
+
 * [2024/06] **Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG** *Du et al. arXiv.* [[paper](https://arxiv.org/abs/2406.11147)]
 * [2023/12] **A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware** *Liao et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.05772)]
 
