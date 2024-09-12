@@ -4,7 +4,27 @@ In recent years, Large Language Models (LLMs) have achieved remarkable success a
 In this paper, we conduct the first survey of the studies on combining LLM-based agents with SE and present a framework of LLM-based agents in SE which includes three key modules: perception, memory, and action. We collected 115 related papers about LLM-based agents in SE and classified them. We also summarize the current challenges in combining the two fields and propose future opportunities in response to existing challenges. 
 
 # Table of Contents
-
+* [Perception](##-Perception)
+  * [Textual Input](###-Textual-Input)
+    * [Token-based Input](####-Token-based-Input)
+    * [Tree/Graph-based Input](####-Tree/Graph-based-Input)
+    * [Hybrid-based Input](####-Hybrid-based-Input)
+  * [Visual Input](###-Visual-Input)
+  * [Auditory Input](###-Auditory-Input)
+* [Memory](##-Memory))
+  * [Semantic Memory](###-Semantic-Memory)
+  * [Episodic Memory](###-Episodic-Memory)
+  * [Procedural Memory](###-Procedural-Memory)
+    * [Implicit Knowledge](####-Implicit-Knowledge)
+    * [Explicit Knowledge](####-Explicit-Knowledge)
+* [Action](##-Action))
+  * [Internal Actions](###-Internal-Actions)
+    * [Reasong Actions](####-Reasong-Actions)
+    * [Retrieval Actions](####-Retrieval-Actions)
+    * [Learning Actions](####-Learning-Actions)
+  * [External Actions](###-External-Actions)
+    * [Dialogue with Human/Agents](####-Dialogue-with-Human/Agents)
+    * [Digital Environments](####-Digital-Environments)
 
 # Agent in Software Engineering
 
@@ -24,22 +44,23 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 * [2024/02] **The Scope of ChatGPT in Software Engineering: A Thorough Investigation** *Ma et al. arXiv.* [[paper](https://arxiv.org/abs/2305.12138v1)]
 
 #### Hybrid-based Input
+
+* [2022/08] **Tackling Long Code Search with Splitting, Encoding, and Aggregating** *Hu et al. ACL.* [[paper](https://arxiv.org/abs/2208.11271v3)]
 * [2022/05] **SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations** *Niu et al. ICSE.* [[paper](https://arxiv.org/abs/2201.01549)]
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2022/03] **UniXcoder: Unified Cross-Modal Pre-training for Code Representation** *Guo et al. ACL.* [[paper](https://arxiv.org/abs/2203.03850)]
 
 <br/>
 
 ### Visual Input
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/03] **PaLM-E: An Embodied Multimodal Language Model** *Driess et al. arXiv.* [[paper](https://arxiv.org/abs/2303.03378)]
+* [2019/11] **User Interface Code Retrieval: A Novel Visual-Representation-Aware Approach** *Xie et al. IEEE Access.* [[paper](https://ieeexplore.ieee.org/document/8891747)]
+* [2018/05] **GUIfetch: supporting app design and development through GUI search** *Behrang et al. ICSE.* [[paper](https://dl.acm.org/doi/10.1145/3197231.3197244)]
+* [2014/09] **Seeking the user interface** *Reiss et al. ASE.* [[paper](https://dl.acm.org/doi/10.1145/2642937.2642976)]
 
 <br/>
 
 ### Auditory Input
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2020/06] **psc2code: Denoising Code Extraction from Programming Screencasts** *Bao et al. TOSEM.* [[paper](https://dl.acm.org/doi/10.1145/3392093)]
 
 <br/>
 
