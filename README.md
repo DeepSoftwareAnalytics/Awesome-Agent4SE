@@ -10,13 +10,48 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 ## Perception
 
 ### Textual Input
+#### Token-based Input
+* [2023/04] **Improving Few-Shot Prompts with Relevant Static Analysis Products.** *Ma et al. arXiv.* [[paper](https://arxiv.org/abs/2304.06815)]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]     				
+#### Tree/Graph-based Input
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+#### Hybrid-based Input
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
 ### Visual Input
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
 ### Auditory Input
-## Action
-###  Internal Actions
-### External Actions
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+
 ## Memory
 ### Semantic Memory
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
 ### Episodic Memory
+* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+[2023/04] ** ** * et al. arXiv.* [[paper]()]
 ### Procedural Memory
+#### Implicit Knowledge
+#### Explicit Knowledge
+
+## Action
+###  Internal Actions
+#### Reasoning Actions
+#### Retrieval Actions
+#### Learning Actions
+
+### External Actions
+
+#### Dialogue with Human/Agents
+
+#### Digital Environments
 
