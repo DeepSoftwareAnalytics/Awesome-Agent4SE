@@ -27,15 +27,21 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 * [2022/05] **SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations** *Niu et al. ICSE.* [[paper](https://arxiv.org/abs/2201.01549)]
 * [2023/04] ** ** * et al. arXiv.* [[paper]()]
 * [2023/04] ** ** * et al. arXiv.* [[paper]()]
+
+<br/>
+
 ### Visual Input
 * [2023/04] ** ** * et al. arXiv.* [[paper]()]
 * [2023/04] ** ** * et al. arXiv.* [[paper]()]
 * [2023/04] ** ** * et al. arXiv.* [[paper]()]
+
+<br/>
+
 ### Auditory Input
 * [2023/04] ** ** * et al. arXiv.* [[paper]()]
 * [2023/04] ** ** * et al. arXiv.* [[paper]()]
 
-
+<br/>
 
 ## Memory
 ### Semantic Memory
@@ -48,7 +54,7 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 * [2023/05] **ToolCoder: Teach Code Generation Models to use API search tools** *Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2305.04032)]
 * [2023/04] **Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)** *Ahmed et al. arXiv.* [[paper](https://arxiv.org/abs/2304.06815)]
 
-
+<br/>
   
 ### Episodic Memory
 * [2024/01] **De-Hallucinator: Mitigating LLM Hallucinations in Code Generation Tasks via Iterative Grounding** *Eghbali et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.01701)]
@@ -59,6 +65,8 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 * [2023/04] **Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization)** *Ahmed et al. arXiv.* [[paper](https://arxiv.org/abs/2304.06815)]
 * [2023/03] **RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2303.12570)]
 * [2023/03] **AceCoder: Utilizing Existing Code to Enhance Code Generation** *Li et al. arXiv.* [[paper](https://arxiv.org/abs/2303.17780)]
+
+<br/>
 
 ### Procedural Memory
 #### Implicit Knowledge
@@ -95,6 +103,7 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 * [2023/10] **Prompt Engineering or Fine Tuning: An Empirical Assessment of Large Language Models in Automated Software Engineering Tasks** *Shin et al. arXiv.* [[paper](https://arxiv.org/abs/2310.10508)]
 * [2023/08] **Prompt-Enhanced Software Vulnerability Detection Using ChatGPT** *Zhang et al. ICSE.* [[paper](https://arxiv.org/abs/2308.12697)]
 
+<br/>
 
 ## Action
 
@@ -112,6 +121,8 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 
 * [2024/06] **Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG** *Du et al. arXiv.* [[paper](https://arxiv.org/abs/2406.11147)]
 * [2023/12] **A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware** *Liao et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.05772)]
+
+<br/>
 
 ### External Actions
 
