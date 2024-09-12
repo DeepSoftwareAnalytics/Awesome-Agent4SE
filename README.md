@@ -110,10 +110,45 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 ###  Internal Actions
 
 #### Reasoning Actions
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2024/01] **Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.06391)]
+* [2024/01] **Leveraging Print Debugging to Improve Code Generation in Large Language Models** *Hu et al. arXiv.* [[paper](https://arxiv.org/abs/2401.05319)]
+* [2023/12] **Chain-of-Thought in Neural Code Generation: From and For Lightweight Language Models** *Yang et al. TSE.* [[paper](https://arxiv.org/abs/2312.05562)]
+* [2023/12] **Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning** *Christianos et al. arXiv.* [[paper](https://arxiv.org/abs/2312.14878)]
+* [2023/12] **Enhancing Exploratory Testing by Large Language Model and Knowledge Graph** *Su et al. ICSE.* [[paper](https://dl.acm.org/doi/abs/10.1145/3597503.3639157)]
+* [2023/10] **CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules** *Le et al. ICLR.* [[paper](https://arxiv.org/abs/2310.08992)]
+* [2023/10] **ClarifyGPT: Empowering LLM-based Code Generation with Intention Clarification** *Mu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.10996)]
+* [2023/09] **CodePlan: Repository-level Coding using LLMs and Planning** *Bairi et al. arXiv.* [[paper](https://arxiv.org/abs/2309.12499)]
+* [2023/09] **Draft & Verify: Lossless Large Language Model Acceleration via Self-Speculative Decoding** *Zhang et al. ACL.* [[paper](https://arxiv.org/abs/2309.08168)]
+* [2023/09] **Test-Case-Driven Programming Understanding in Large Language Models for Better Code Generation** *Tian et al. arXiv.* [[paper](https://browse.arxiv.org/pdf/2309.16120)]
+* [2023/08] **CodeCoT: Tackling Code Syntax Errors in CoT Reasoning for Code Generation** *Huang et al. arXiv.* [[paper](https://arxiv.org/abs/2308.08784)]
 * [2023/06] **Prompting Is All You Need: Automated Android Bug Replay with Large Language Models** *Feng et al. ICSE.* [[paper](https://arxiv.org/abs/2306.01987)]
+* [2023/05] **Structured Chain-of-Thought Prompting for Code Generation** *Li et al. arXiv.* [[paper](https://arxiv.org/abs/2305.06599)]
+* [2023/05] **Think Outside the Code: Brainstorming Boosts Large Language Models in Code Generation** *Li et al. arXiv.* [[paper](https://arxiv.org/abs/2305.10679)]
+* [2023/03] **Self-planning Code Generation with Large Language Models** *Jiang et al. TOSEM.* [[paper](https://arxiv.org/abs/2303.06689)]
+
+
+
+
 #### Retrieval Actions
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2024/01] **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges** *Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2401.07339)]
+* [2024/01] **De-Hallucinator: Mitigating LLM Hallucinations in Code Generation Tasks via Iterative Grounding** *Eghbali et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.01701)]
+* [2023/10] **When Language Model Meets Private Library** *Zan et al. EMNLP.* [[paper](https://arxiv.org/abs/2210.17236)]
+* [2023/10] **Large Language Model-Aware In-Context Learning for Code Generation** *Li et al. arXiv.* [[paper](https://arxiv.org/abs/2310.09748)]
+* [2023/06] **epoFusion: Training Code Models to Understand Your Repository** *Shrivastava et al. arXiv.* [[paper](https://arxiv.org/abs/2306.10998)]
+* [2023/05] **Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning** *Nashid et al. ICSE.* [[paper](https://ieeexplore.ieee.org/abstract/document/10172590)]
+* [2023/05] **ToolCoder: Teach Code Generation Models to use API search tools** *Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2305.04032)]
+* [2023/04] **Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning** *Geng et al. ICSE.* [[paper](https://arxiv.org/abs/2304.11384)]
+* [2023/03] **RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation** *Zhang et al. arXiv.* [[paper](https://arxiv.org/pdf/2303.12570)]
+* [2023/03] **AceCoder: Utilizing Existing Code to Enhance Code Generation** *Li et al. arXiv.* [[paper](https://arxiv.org/abs/2303.17780)]
+* [2022/12] **Generation-Augmented Query Expansion For Code Retrieval** *Li et al. arXiv.* [[paper](https://arxiv.org/abs/2212.10692)]
+* [2022/07] **DocPrompting: Generating Code by Retrieving the Docs** *Zhou et al. ICLR.* [[paper](https://arxiv.org/abs/2207.05987)]
+
+
+
+
+
+
+
 
 #### Learning Actions
 
@@ -122,12 +157,61 @@ In this paper, we conduct the first survey of the studies on combining LLM-based
 * [2024/06] **Vul-RAG: Enhancing LLM-based Vulnerability Detection via Knowledge-level RAG** *Du et al. arXiv.* [[paper](https://arxiv.org/abs/2406.11147)]
 * [2023/12] **A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse with Local-Aware, Global-Aware, and Third-Party-Library-Aware** *Liao et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.05772)]
 
+*Updating Implicit Knowledge*
+* [2023/12] **Magicoder: Empowering Code Generation with OSS-INSTRUCT** *Wei et al. PMLR.* [[paper](https://arxiv.org/pdf/2312.02120)]
+* [2023/10] **Prompt Engineering or Fine Tuning: An Empirical Assessment of Large Language Models in Automated Software Engineering Tasks** *Shin et al. arXiv.* [[paper](https://arxiv.org/abs/2310.10508)]
+* [2023/10] **Improving Code Style for Accurate Code Generation** *Jain et al. NeurIPS Workshop.* [[paper](https://openreview.net/pdf?id=uc9sYHRX6O)]
+* [2023/10] **Large Language Models for Test-Free Fault Localization** *Yang et al. arXiv.* [[paper](https://arxiv.org/abs/2310.01726)]
+* [2023/09] **An Empirical Study on Fine-Tuning Large Language Models of Code for Automated Program Repair** *Huang et al. ASE.* [[paper](https://ieeexplore.ieee.org/document/10298532)]
+* [2023/08] **VeriGen: A Large Language Model for Verilog Code Generation** *Thakur et al. arXiv.* [[paper](https://arxiv.org/abs/2308.00708)]
+* [2023/08] **Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models** *Weyssow et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10462)]
+* [2023/07] **Multilingual Code Co-Evolution Using Large Language Models** *Zhang et al. ESEC/FSE.* [[paper](https://arxiv.org/pdf/2307.14991)]
+* [2023/06] **WizardCoder: Empowering Code Large Language Models with Evol-Instruct** *Luo et al. arXiv.* [[paper](https://arxiv.org/abs/2306.08568)]
+* [2023/05] **COEDITOR: LEVERAGING REPO-LEVEL DIFFS FOR CODE AUTO-EDITING** *Wei et al. arXiv.* [[paper](https://arxiv.org/pdf/2305.18584)]
+* [2023/05] **Coarse-Tuning Models of Code with Reinforcement Learning Feedback** *Jain et al. arXiv.* [[paper](https://arxiv.org/abs/2305.18341)]
+* [2023/03] **Revisiting the Plastic Surgery Hypothesis via Large Language Models** *Xia et al. arXiv.* [[paper](https://arxiv.org/abs/2303.10494)]
+* [2023/03] **One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2303.15822v1)]
+
+*Updating Agent Code*
+* [2023/10] **InstructCoder: Instruction Tuning Large Language Models for Code Editing** *Li et al. arXiv.* [[paper](https://arxiv.org/abs/2310.20329)]
+* [2023/08] **OctoPack: Instruction Tuning Code Large Language Models** *Muennighoff et al. arXiv.* [[paper](https://arxiv.org/abs/2308.07124)]
+* [2023/08] **Can Programming Languages Boost Each Other via Instruction Tuning?** *Zan et al. arXiv.* [[paper](https://arxiv.org/abs/2308.16824)]
+* [2023/05] **CodeIE: Large Code Generation Models are Better Few-Shot Information Extractors** *Li et al. ACL.* [[paper](https://arxiv.org/abs/2305.05711)]
+* [2022/12] **Self-Adaptive In-Context Learning: An Information Compression Perspective for In-Context Example Selection and Ordering** *Wu et al. ACL.* [[paper](https://arxiv.org/abs/2212.10375)]
+
 <br/>
 
 ### External Actions
 
 #### Dialogue with Human/Agents
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+* [2023/12] **Supervised Knowledge Makes Large Language Models Better In-context Learners** *Yang et al. ICLR.* [[paper](https://arxiv.org/abs/2312.15918)]
+* [2023/12] **AgentCoder: Multi-Agent Code Generation with Effective Testing and Self-optimisation** *Huang et al. arXiv.* [[paper](https://arxiv.org/pdf/2312.13010)]
+* [2023/11] **Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback** *Moon et al. arXiv.* [[paper](https://arxiv.org/abs/2311.07215)]
+* [2023/11] **Functional Overlap Reranking for Neural Code Generation** *To et al. arXiv.* [[paper](https://arxiv.org/pdf/2311.03366)]
+* [2023/11] **ChatCoder: Chat-based Refine Requirement Improves LLMs' Code Generation** *Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2311.00272)]
+* [2023/10] **Clover: Closed-Loop Verifiable Code Generation** *Sun et al. arXiv.* [[paper](https://arxiv.org/abs/2310.17807)]
+* [2023/10] **ClarifyGPT: Empowering LLM-based Code Generation with Intention Clarification** *Mu et al. arXiv.* [[paper](https://arxiv.org/abs/2310.10996)]
+* [2023/09] **Exploring the Potential of Large Language Models to Generate Formative Programming Feedback** *Kiesler et al. FIE.* [[paper](https://arxiv.org/abs/2309.00029)]
+* [2023/09] **Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair** *Wei et al. ESEC/FSE.* [[paper](https://arxiv.org/pdf/2309.00608)]
+* [2023/09] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** *Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2309.10691)]
+* [2023/09] **Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study** *Guo et al. arXiv.* [[paper](https://arxiv.org/abs/2309.08221)]
+* [2023/08] **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** *Hong et al. arXiv.* [[paper](https://arxiv.org/abs/2308.00352)]
+* [2023/07] **RLTF: Reinforcement Learning from Unit Test Feedback** *Liu et al. TMLR.* [[paper](https://arxiv.org/abs/2307.04349)]
+* [2023/05] **Coarse-Tuning Models of Code with Reinforcement Learning Feedback** *Jain et al. arXiv.* [[paper](https://arxiv.org/abs/2305.18341)]
+* [2023/04] **REFINER: Reasoning Feedback on Intermediate Representations** *Paul et al. EACL.* [[paper](https://arxiv.org/abs/2304.01904)]
+* [2023/03] **Reflexion: Language Agents with Verbal Reinforcement Learning** *Shinn et al. arXiv.* [[paper](https://arxiv.org/abs/2303.11366)]
+* [2023/03] **Self-Refine: Iterative Refinement with Self-Feedback** *Madaan et al. arXiv.* [[paper](https://arxiv.org/abs/2303.17651)]
+* [2023/01] **Execution-based Code Generation using Deep Reinforcement Learning** *Shojaee et al. TMLR.* [[paper](https://arxiv.org/abs/2301.13816)]
 
 #### Digital Environments
-* [2023/04] ** ** * et al. arXiv.* [[paper]()]
+
+* [2024/01] **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges** *Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2401.07339)]
+* [2024/01] **Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation** *Wang et al. arXiv.* [[paper](https://arxiv.org/pdf/2401.06391)]
+* [2023/09] **Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair** *Wei et al. ESEC/FSE.* [[paper](https://arxiv.org/pdf/2309.00608)]
+* [2023/09] **MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback** *Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2309.10691)]
+* [2023/07] **RLTF: Reinforcement Learning from Unit Test Feedback** *Liu et al. TMLR.* [[paper](https://arxiv.org/abs/2307.04349)]
+* [2023/06] **Guiding Language Models of Code with Global Context using Monitors** *Agrawal et al. arXiv.* [[paper](https://arxiv.org/pdf/2306.10763)]
+* [2023/05] **Coarse-Tuning Models of Code with Reinforcement Learning Feedback** *Jain et al. arXiv.* [[paper](https://arxiv.org/abs/2305.18341)]
+* [2023/05] **Self-Edit: Fault-Aware Code Editor for Code Generation** *Zhang et al. ACL.* [[paper](https://arxiv.org/abs/2305.04087)]
+* [2023/01] **Execution-based Code Generation using Deep Reinforcement Learning** *Shojaee et al. TMLR.* [[paper](https://arxiv.org/abs/2301.13816)]
+* [2022/03] **Compilable Neural Code Generation with Compiler Feedback** *Wang et al. ACL.* [[paper](https://arxiv.org/abs/2203.05132)]
