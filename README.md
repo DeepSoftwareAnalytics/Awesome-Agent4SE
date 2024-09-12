@@ -4,12 +4,12 @@ In recent years, Large Language Models (LLMs) have achieved remarkable success a
 In this paper, we conduct the first survey of the studies on combining LLM-based agents with SE and present a framework of LLM-based agents in SE which includes three key modules: perception, memory, and action. We collected 115 related papers about LLM-based agents in SE and classified them. We also summarize the current challenges in combining the two fields and propose future opportunities in response to existing challenges. 
 
 # Table of Contents
-* [Perception](##-Perception)
-  * [Textual Input](###Textual-Input)
-    * [Token-based Input](####Token-based-Input)
-    * [Tree/Graph-based Input](####Tree/Graph-based-Input)
-    * [Hybrid-based Input](####Hybrid-based-Input)
-  * [Visual Input](###Visual-Input)
+* [Perception](#-Perception)
+  * [Textual Input](#Textual-Input)
+    * [Token-based Input](#Token-based-Input)
+    * [Tree/Graph-based Input](#ree/Graph-based-Input)
+    * [Hybrid-based Input](#Hybrid-based-Input)
+  * [Visual Input](#Visual-Input)
   * [Auditory Input](###Auditory-Input)
 * [Memory](##-Memory))
   * [Semantic Memory](###Semantic-Memory)
